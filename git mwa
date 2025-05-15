@@ -1,0 +1,9 @@
+Git é um sistema de controle de versão distribuído, ou seja, um software que permite acompanhar as alterações feitas em um projeto de desenvolvimento, como um código-fonte, ao longo do tempo.
+///////
+Os comandos Git são as ferramentas que você utiliza para interagir com o sistema de controle de versão Git. Permitem que você crie, modifique, sincronize e gere o histórico das suas alterações em um projeto de software. 
+///////
+git status serve para exibir o estado atual do seu repositório Git, mostrando quais arquivos foram modificados, quais estão na área de staging (prontos para serem commitados) e quais não estão sendo rastreados pelo Git
+///////
+Então, git commit é usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+///////
+git push serve para enviar os commits de um repositório local para um repositório remoto, permitindo que outras pessoas ou você mesmo tenham acesso às suas alterações
