@@ -1,3 +1,3 @@
 # Duque
 Repositorio para frontend
-meu app é pra sabe deus oque kkkkkkkkkkkkkkk
+meu app e pra sabe deus oque kkkkkkkkkkkkkkk
